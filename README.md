@@ -46,7 +46,7 @@
             element: "table-container",
             allow_download: true,
             csv_options: {
-                separator: ";",
+                separator: ",",
                 delimiter: '"'
             },
             datatables_options: {
